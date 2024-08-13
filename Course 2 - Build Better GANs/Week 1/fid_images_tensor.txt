@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/hieunm44/frchet-inception-distance-fid-dataset
